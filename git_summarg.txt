@@ -1,0 +1,17 @@
+git conf
+git init
+
+git add <file>
+git commit -m
+
+git diff <file>
+git status
+
+git log
+git reflog
+
+git checkout <file>
+
+git reset HEAD ID
+
+git rm <file>
