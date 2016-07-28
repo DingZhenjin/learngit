@@ -7,4 +7,8 @@ Git repare once again.
 
 Creating a new branch is quick and simple.
 
+<<<<<<< HEAD
 Git is free software. 
+=======
+add stash
+>>>>>>> feature-vulcan
