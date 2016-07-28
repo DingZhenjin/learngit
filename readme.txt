@@ -6,3 +6,5 @@ Git add a new branch :dev!
 Git repare once again.
 
 Creating a new branch is quick and simple.
+
+Git is free software. 
