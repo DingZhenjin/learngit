@@ -4,3 +4,4 @@ Git has amutable index called stage.
 11111111111111111111111111111111111111111111
 Git add a new branch :dev!
 Git repare once again.
+Switched to a new branch 'frature1'
