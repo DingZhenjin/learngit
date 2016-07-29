@@ -12,3 +12,5 @@ Git is free software.
 =======
 add stash
 >>>>>>> feature-vulcan
+
+other people repare file
